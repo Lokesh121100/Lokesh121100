@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/lokesh-j-2a126432a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lokesh121100@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/lokesh1211/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://verify.skilljar.com/c/in37hngwa63n"><img src="https://img.shields.io/badge/Certified-Claude_by_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Certified" /></a>
 </p>
 
 <br></br>
@@ -23,40 +24,53 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Intelsoft-Chatbot](https://github.com/Lokesh121100/Intelsoft-Chatbot)**
-RAG chatbot with FastAPI backend, Ollama for local LLM inference, and semantic search over documents.
+**[Food-delivery-prediction-using-LSTM](https://github.com/Lokesh121100/Food-delivery-prediction-using-LSTM)**
+LSTM deep learning model predicting food delivery times, built with TensorFlow and Pandas on Kaggle data.
 
-`Python` `FastAPI` `Docker` `RAG`
+`Python` `TensorFlow` `LSTM` `Pandas`
 
 </td>
 <td width="50%" valign="top">
 
-**[Power-Automate_MCP](https://github.com/Lokesh121100/Power-Automate_MCP)**
-Model Context Protocol server connecting Claude to Power Automate workflows.
+**[Business_insights_360](https://github.com/Lokesh121100/Business_insights_360)**
+Power BI dashboard analyzing sales trends for a hardware goods business, surfacing product performance insights.
 
-`TypeScript` `MCP` `Azure Identity`
+`Power BI` `Data Analysis`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Intelsoft-Event-Calendar](https://github.com/Lokesh121100/Intelsoft-Event-Calendar)**
-SharePoint Framework web part with Microsoft Teams integration for event scheduling.
+**[T20-World-Cup-Cricket-Data-Analytics](https://github.com/Lokesh121100/T20-World-Cup-Cricket-Data-Analytics)**
+Power BI report identifying top players, built by scraping and cleaning data from ESPNcricinfo.
 
-`SPFx` `React` `TypeScript` `Teams`
+`Python` `Power BI` `Pandas`
 
 </td>
 <td width="50%" valign="top">
 
-**[Food-delivery-prediction-using-LSTM](https://github.com/Lokesh121100/Food-delivery-prediction-using-LSTM)**
-LSTM deep learning model predicting food delivery times from Kaggle data.
+**[Sales_Insights](https://github.com/Lokesh121100/Sales_Insights)**
+Interactive Power BI dashboard tracking sales performance across products and regions.
 
-`Python` `TensorFlow` `Pandas`
+`Power BI` `SQL`
 
 </td>
 </tr>
 </table>
+
+### Professional work (private client repos)
+
+- **RAG chatbot** — FastAPI backend with Ollama for local LLM inference and semantic search over company documents
+- **MCP server** — Model Context Protocol server connecting Claude to Power Automate workflows
+- **SharePoint Framework web part** — event calendar with Microsoft Teams integration
+- **.NET billing platform** — ASP.NET Core Web API and React frontend, fixes and features shipped through code review
+
+### Open to collaborate on
+
+- RAG and AI agent projects using the Claude API and MCP
+- SharePoint Framework (SPFx) and Power Platform tools
+- .NET backend and Azure DevOps pipelines
 
 ## Tech
 
@@ -113,6 +127,16 @@ LSTM deep learning model predicting food delivery times from Kaggle data.
 <br/>
 
 <img height="170" src="https://github-readme-stats-omega-seven-49.vercel.app/api/top-langs/?username=Lokesh121100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=blade,html,css,hack,makefile" alt="top langs" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lokesh121100/Lokesh121100/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lokesh121100/Lokesh121100/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Lokesh121100/Lokesh121100/output/github-snake.svg" width="98%" />
+</picture>
 
 </div>
 
