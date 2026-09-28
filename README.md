@@ -24,6 +24,42 @@
 <tr>
 <td width="50%" valign="top">
 
+**[KnowledgeAgent](https://github.com/Lokesh121100/KnowledgeAgent)**
+RAG-powered knowledge agent with tool-calling, built on FastAPI, LangChain and the Claude API.
+
+`Python` `FastAPI` `RAG` `Claude API`
+
+</td>
+<td width="50%" valign="top">
+
+**[m365-mcp-toolkit](https://github.com/Lokesh121100/m365-mcp-toolkit)**
+Model Context Protocol server connecting Claude to Microsoft 365 and Power Automate workflows.
+
+`TypeScript` `MCP` `Power Automate`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[spfx-approval-dashboard](https://github.com/Lokesh121100/spfx-approval-dashboard)**
+SharePoint Framework web part for routing and tracking approval workflows.
+
+`SPFx` `React` `TypeScript` `SharePoint`
+
+</td>
+<td width="50%" valign="top">
+
+**[InventoryTrack-API](https://github.com/Lokesh121100/InventoryTrack-API)**
+ASP.NET Core Web API built on Clean Architecture, with EF Core and CI/CD to Azure.
+
+`C#` `.NET 8` `Clean Architecture` `Azure`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[Food-delivery-prediction-using-LSTM](https://github.com/Lokesh121100/Food-delivery-prediction-using-LSTM)**
 LSTM deep learning model predicting food delivery times, built with TensorFlow and Pandas on Kaggle data.
 
@@ -36,24 +72,6 @@ LSTM deep learning model predicting food delivery times, built with TensorFlow a
 Power BI dashboard analyzing sales trends for a hardware goods business, surfacing product performance insights.
 
 `Power BI` `Data Analysis`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[T20-World-Cup-Cricket-Data-Analytics](https://github.com/Lokesh121100/T20-World-Cup-Cricket-Data-Analytics)**
-Power BI report identifying top players, built by scraping and cleaning data from ESPNcricinfo.
-
-`Python` `Power BI` `Pandas`
-
-</td>
-<td width="50%" valign="top">
-
-**[Sales_Insights](https://github.com/Lokesh121100/Sales_Insights)**
-Interactive Power BI dashboard tracking sales performance across products and regions.
-
-`Power BI` `SQL`
 
 </td>
 </tr>
