@@ -59,18 +59,30 @@ Interactive Power BI dashboard tracking sales performance across products and re
 </tr>
 </table>
 
-### Professional work (private client repos)
+### What I've shipped
 
-- **RAG chatbot** — FastAPI backend with Ollama for local LLM inference and semantic search over company documents
-- **MCP server** — Model Context Protocol server connecting Claude to Power Automate workflows
-- **SharePoint Framework web part** — event calendar with Microsoft Teams integration
-- **.NET billing platform** — ASP.NET Core Web API and React frontend, fixes and features shipped through code review
+Currently building production software for enterprise and consumer clients under NDA. A **RAG-powered chatbot** that cut manual document lookup time for an internal support team. An **MCP server** that lets Claude drive Power Automate workflows directly instead of routing through a human. A **SharePoint web part** used company-wide for event scheduling. A **.NET billing platform** handling real customer transactions in production, with fixes and features shipped through code review on a live team.
 
-### Open to collaborate on
+### 🟢 Open to Work
 
-- RAG and AI agent projects using the Claude API and MCP
-- SharePoint Framework (SPFx) and Power Platform tools
-- .NET backend and Azure DevOps pipelines
+<p>
+<img src="https://img.shields.io/badge/Available_for-Freelance-2ea44f?style=flat-square" />
+<img src="https://img.shields.io/badge/Available_for-Contract-2ea44f?style=flat-square" />
+<img src="https://img.shields.io/badge/Available_for-Full_Time-2ea44f?style=flat-square" />
+<img src="https://img.shields.io/badge/B2B-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/B2C-blue?style=flat-square" />
+</p>
+
+**Looking for:** AI Agent Developer · RAG Engineer · .NET Backend Developer · SharePoint/Power Platform Developer
+
+**Stack:** Claude API, MCP, RAG, LangChain, .NET 8, ASP.NET Core, FastAPI, SharePoint Framework (SPFx), Power Automate, Azure
+
+**Hire me for:**
+- AI agents and RAG chatbots (Claude API, MCP, LangChain)
+- SharePoint and Power Platform automation
+- .NET backend APIs and Azure DevOps CI/CD
+
+📩 [LinkedIn](https://www.linkedin.com/in/lokesh-j-2a126432a) · [Email](mailto:lokesh121100@gmail.com)
 
 ## Tech
 
