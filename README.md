@@ -82,8 +82,6 @@ Currently building production software for enterprise and consumer clients under
 - SharePoint and Power Platform automation
 - .NET backend APIs and Azure DevOps CI/CD
 
-📩 [LinkedIn](https://www.linkedin.com/in/lokesh-j-2a126432a) · [Email](mailto:lokesh121100@gmail.com)
-
 ## Tech
 
 <div align="center">
